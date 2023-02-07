@@ -2,9 +2,9 @@
 <html>
 	<body>
 
-		<input type="text">USERNAME</input><br>
-		<input type="passward">PASSWARD</input><br>
-		<input type="submit">Submit</input>
+		USERNAME<input type="text"></input><br>
+		PASSWARD<input type="passward"></input><br>
+		<input type="submit"></input>
 	</body>
 </html>
 
