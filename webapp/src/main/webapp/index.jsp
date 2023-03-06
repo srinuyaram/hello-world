@@ -1,4 +1,4 @@
-<h1> Hello!. Plese login  </h1>
+<h1> Hello!. Plese Register  </h1>
 <html>
 	<body>
                 ID<input type="number"></input><br>
